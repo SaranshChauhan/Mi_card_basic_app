@@ -1,10 +1,11 @@
 # sr_card_flutter
 
-A new Flutter project.
+A new Flutter project with simple only page.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Covered Container, single child widget Center, padding, SizedBox & Muti Children widget i.e row, Column.
+also Card widget (A panel with slightly rounded corners & an Elevation shadow.), ListTile Widget and Divider.
 
 A few resources to get you started if this is your first Flutter project:
 
